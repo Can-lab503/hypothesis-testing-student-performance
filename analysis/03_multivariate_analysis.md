@@ -1,17 +1,17 @@
-# Multivariate Hypothesis Testing: Expanding the Feature Space
+# Multivariate Hypothesis Testing: Extending to a Multidimensional Context
 
 *(Adapted from Chapter 4 of the thesis)*
 
-## 1. Why Multivariate Analysis?
-In educational assessment, variables like final scores, attendance, and study hours are highly correlated. Testing them independently (univariate) can inflate Type I errors and miss the joint effect. Therefore, the dependent variable was expanded into a **3D vector** (Score, Attendance, Hours Studied), and the analysis was extended to Multivariate Analysis of Variance (MANOVA).
+## 1. Rationale for Multivariate Analysis
+In educational assessment, variables such as final scores, attendance, and study hours are highly correlated. Testing them independently (univariate) can inflate the Type I error rate and miss the joint effect. Therefore, the dependent variable was expanded into a **3D vector** (Score, Attendance, Hours Studied), and the analysis was extended to Multivariate Analysis of Variance (MANOVA).
 
-## 2. Methods & Prerequisites
+## 2. Statistical Methods and Prerequisites
 - **Box's M Test**: Checked the homogeneity of covariance matrices across groups.
   *Result:* M = 28.332, p = 0.555. The assumption of covariance homogeneity was met.
 - **Hotelling's T² Test**: Compared mean vectors between two groups (Extracurricular: Yes vs. No).
 - **Wilks' Λ Test**: Compared mean vectors across multiple groups (Parental Involvement: Low, Medium, High).
 
-## 3. Key Findings & The Multivariate Insight
+## 3. Key Findings and Multivariate Insights
 
 ### Hotelling's T² Test (Extracurricular Activities)
 - **Result**: F(3, 6599) = 1.210, p = 0.304.
@@ -26,4 +26,4 @@ In educational assessment, variables like final scores, attendance, and study ho
 ## 4. Conclusion: The Power of Joint Inference
 The contrast between Chapter 3 and Chapter 4 revealed a profound statistical principle: **Single-indicator significance can be deceptive.** 
 
-When dealing with high-dimensional data, evaluating variables in isolation often leads to false positives (similar to overfitting in ML). By moving from marginal distributions to joint distributions (MANOVA), we successfully mitigated the risk of inflated false positives caused by dimensional stacking. This multivariate perspective—learning from the interaction of multiple features rather than isolated columns—is exactly why I am eager to pursue further studies in Machine Learning and AI.
+When dealing with high-dimensional data, evaluating variables in isolation often leads to false positives (conceptually similar to overfitting in Machine Learning). By moving from marginal distributions to joint distributions (MANOVA), we successfully mitigated the risk of inflated false positives caused by dimensional stacking. This multivariate perspective—learning from the interaction of multiple features rather than isolated columns—is exactly why I am eager to pursue further studies in Machine Learning and Artificial Intelligence.
