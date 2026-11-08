@@ -1,7 +1,7 @@
-# 多元假设检验：特征扩展
-**[English](./03_multivariate_analysis.md) | 中文**
+# Multivariate Hypothesis Testing: Expanding the Feature Space
+**[中文版](./03_multivariate_analysis.zh.md) | English**
 
-*(改编自论文第 4 章)*
+*(Adapted from Chapter 4 of the thesis)*
 
 ## 1. Rationale for Multivariate Analysis
 In educational assessment, variables such as final scores, attendance, and study hours are highly correlated. Testing them independently (univariate) can inflate the Type I error rate and miss the joint effect. Therefore, the dependent variable was expanded into a **3D vector** (Score, Attendance, Hours Studied), and the analysis was extended to Multivariate Analysis of Variance (MANOVA).
