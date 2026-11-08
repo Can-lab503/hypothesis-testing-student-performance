@@ -1,9 +1,10 @@
-# Theoretical Foundation: Interconnections & Multivariate Extensions
+# Theoretical Foundation: Connections & Multivariate Extensions
+**[中文版](./01_theoretical_foundation.zh.md) | English**
 
 *(Adapted from Chapter 2 of the thesis)*
 
 ## 1. Interconnections Among the Three Distributions
-The chi-square (χ²), t, and F distributions are **not independent distributions**; rather, they are closely interconnected and can be derived from one another, forming a coherent core of statistical inference.
+The χ², t, and F distributions are **not independent distributions**; rather, they are closely interconnected and can be derived from one another, forming a coherent core of statistical inference.
 
 - **χ² distribution**: Arises as the sum of squares of independent standard normal variables, serving as the foundation for variance-related inference.
 - **t distribution**: Constructed from the ratio of a standard normal variable to the square root of an independent χ² variable divided by its degrees of freedom, used for inference about means when the sample size is small and the variance is unknown.
