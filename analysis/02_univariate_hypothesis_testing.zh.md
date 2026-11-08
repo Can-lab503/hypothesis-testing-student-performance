@@ -1,4 +1,5 @@
 # 教育评估中的单变量假设检验
+**[English](./02_univariate_hypothesis_testing.md) | 中文**
 
 *(改编自论文第 3 章)*
 
