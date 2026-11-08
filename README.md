@@ -15,9 +15,9 @@ The goal was not just to produce a "significant" result, but to rigorously work 
 
 ## 📂 Repository Structure & Materials
 - **Core Analysis (Markdown Reports):**
-  1. [Theoretical Foundation: Connections & Multivariate Extensions](./analysis/01_theoretical_foundation.md)
-  2. [Univariate Hypothesis Testing in Educational Assessment](./analysis/02_univariate_hypothesis_testing.md)
-  3. [Multivariate Hypothesis Testing: Expanding the Feature Space](./analysis/03_multivariate_analysis.md)
+  1. [Theoretical Foundation: Connections & Multivariate Extensions](./analysis/01_theoretical_foundation.md) | [中文版](./analysis/01_theoretical_foundation.zh.md)
+  2. [Univariate Hypothesis Testing in Educational Assessment](./analysis/02_univariate_hypothesis_testing.md) | [中文版](./analysis/02_univariate_hypothesis_testing.zh.md)
+  3. [Multivariate Hypothesis Testing: Expanding the Feature Space](./analysis/03_multivariate_analysis.md) | [中文版](./analysis/03_multivariate_analysis.zh.md)
 - **[`figures/`](./figures/):** Selected key data visualizations and plots.
 - **[`presentation/`](./presentation/):** 
   - [Thesis Defense Slides (PDF)](./presentation/slides.pdf) *(Note: If the online preview fails, please click "Download" to view locally.)*
