@@ -15,9 +15,9 @@
 
 ## 📂 仓库结构与材料
 - **核心分析（Markdown 报告）：**
-  1. [理论基础：内在联系与多元推广](./analysis/01_theoretical_foundation.md)
-  2. [教育评估中的单变量假设检验](./analysis/02_univariate_hypothesis_testing.md)
-  3. [多元假设检验：特征空间的扩展](./analysis/03_multivariate_analysis.md)
+  1. [理论基础：内在联系与多元推广](./analysis/01_theoretical_foundation.zh.md) | [English](./analysis/01_theoretical_foundation.md)
+  2. [教育评估中的单变量假设检验](./analysis/02_univariate_hypothesis_testing.zh.md) | [English](./analysis/02_univariate_hypothesis_testing.md)
+  3. [多元假设检验：特征空间的扩展](./analysis/03_multivariate_analysis.zh.md) | [English](./analysis/03_multivariate_analysis.md)
 - **[`figures/`](./figures/):** 精选的关键数据可视化图表。
 - **[`presentation/`](./presentation/):** 
   - [答辩演示文稿 (PDF)](./presentation/slides.pdf) *(注：如果在线预览失败，请点击 "Download" 下载至本地查看。)*
