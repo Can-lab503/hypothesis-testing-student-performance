@@ -1,4 +1,5 @@
 # Univariate Hypothesis Testing in Educational Assessment
+**[中文版](./02_univariate_hypothesis_testing.zh.md) | English**
 
 *(Adapted from Chapter 3 of the thesis)*
 
